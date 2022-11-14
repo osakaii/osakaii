@@ -1,6 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">I am a Frontend engineer with endless gain</h3>
+<h1 align="center">Sup 👋, I'm Muhammad</h1>
+<h3 align="center">Frontend engineer with endless gain</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/4eGUxJc4lplh6/giphy.gif?cid=1&rid=giphy.gif&ct=g"/>
 
 - 🌱 I’m currently learning **Node-js with Express**
